@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/7/25 12:59:48。
+     1>项目“C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\ConsoleApplication3\ConsoleApplication3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 2048.cpp
+         2048.cpp
+     1>c:\users\小尼\desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\consoleapplication3\direction.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>c:\users\小尼\desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\consoleapplication3\gamerunning.h(130): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\小尼\desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\consoleapplication3\print.h(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\小尼\desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\consoleapplication3\2048.cpp(237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\小尼\desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\consoleapplication3\2048.cpp(237): warning C4700: 使用了未初始化的局部变量“stringTotalTime”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\Debug\ConsoleApplication3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\Debug\ConsoleApplication3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\Debug\ConsoleApplication3.lib" /MACHINE:X86 Debug\2048.obj
+         ConsoleApplication3.vcxproj -> C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\Debug\ConsoleApplication3.exe
+     1>已完成生成项目“C:\Users\小尼\Desktop\大宝藏\大一实训\1044吕泽勇、1073董政、1078任磊\ConsoleApplication3\ConsoleApplication3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.31
